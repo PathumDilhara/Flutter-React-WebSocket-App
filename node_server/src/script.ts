@@ -4,6 +4,8 @@ import cors from "cors";
 import dotenv from "dotenv";
 import { WebSocket, WebSocketServer } from "ws";
 
+// https://docs.google.com/document/d/1QDMlE6Sg7mQj7TssFGd51cn9UwdZAqqfJCw9ALZAjqM/edit?usp=sharing
+
 // For websocket testing we use hoppscotch
 
 // config dotenv for port, db connection urls adding
